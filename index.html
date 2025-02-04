@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gender Expression Traits</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Gender Expression Traits</h1>
+        </div>
+
+        <div class="sticky-header">
+            <div class="controls">
+                <select class="category-filter" id="categoryFilter">
+                    <option value="all">All Categories</option>
+                </select>
+
+                <div class="legend">
+                    <div class="legend-item">
+                        <div class="legend-color legend-blue"></div>
+                        <span>Masculine</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-color legend-white"></div>
+                        <span>Either</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-color legend-grey"></div>
+                        <span>Both</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-color legend-pink"></div>
+                        <span>Feminine</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="progress">
+                <!-- Progress segments will be added dynamically -->
+            </div>
+        </div>
+
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th class="desktop-only">Category</th>
+                        <th class="desktop-only">Sub Category</th>
+                        <th>Masculine Trait</th>
+                        <th>Selection</th>
+                        <th>Feminine Trait</th>
+                    </tr>
+                </thead>
+                <tbody id="traitsTable">
+                    <!-- Data will be populated here -->
+                </tbody>
+            </table>
+        </div>
+
+        <div id="scoreSection" class="score-section" style="display: none;">
+            <h2>Analysis Results</h2>
+            
+            <div class="score-grid">
+                <div class="score-card">
+                    <h3>Selection Distribution</h3>
+                    <div id="percentages" class="percentages">
+                        <!-- Percentages will be added here -->
+                    </div>
+                </div>
+
+                <div class="score-card">
+                    <h3>Gender Expression Analysis</h3>
+                    <div id="genderAnalysis" class="gender-analysis">
+                        <div class="primary-expression">
+                            <h4>Primary Expression</h4>
+                            <div id="primaryExpression"></div>
+                        </div>
+                        <div class="secondary-expressions">
+                            <h4>Additional Expressions</h4>
+                            <div id="secondaryExpressions"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

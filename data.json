@@ -1,0 +1,2205 @@
+{
+    "categories": [
+      {
+        "name": "Appearance-related Traits",
+        "subcategories": [
+          {
+            "name": "Physical Features",
+            "traits": [
+              {
+                "masculine": "Broad/muscular build",
+                "feminine": "Slim/curvy build"
+              },
+              {
+                "masculine": "Taller stature",
+                "feminine": "Shorter stature"
+              },
+              {
+                "masculine": "Angular facial features",
+                "feminine": "Soft facial features"
+              },
+              {
+                "masculine": "Prominent bone structure",
+                "feminine": "Delicate bone structure"
+              }
+            ]
+          },
+          {
+            "name": "Grooming Habits",
+            "traits": [
+              {
+                "masculine": "Minimal skincare routine",
+                "feminine": "Extensive skincare routine"
+              },
+              {
+                "masculine": "Short hair maintenance",
+                "feminine": "Long hair maintenance"
+              },
+              {
+                "masculine": "Basic hygiene products",
+                "feminine": "Various beauty products"
+              },
+              {
+                "masculine": "Natural appearance",
+                "feminine": "Enhanced appearance (makeup)"
+              }
+            ]
+          },
+          {
+            "name": "Fashion/Clothing Preferences",
+            "traits": [
+              {
+                "masculine": "Functional/practical clothing",
+                "feminine": "Decorative/stylish clothing"
+              },
+              {
+                "masculine": "Limited color palette",
+                "feminine": "Diverse color choices"
+              },
+              {
+                "masculine": "Loose/structured fit",
+                "feminine": "Form-fitting styles"
+              },
+              {
+                "masculine": "Minimal accessories",
+                "feminine": "Multiple accessories"
+              }
+            ]
+          },
+          {
+            "name": "Body Language/Posture",
+            "traits": [
+              {
+                "masculine": "Takes up more space",
+                "feminine": "Takes up less space"
+              },
+              {
+                "masculine": "Firm/rigid posture",
+                "feminine": "Fluid/graceful posture"
+              },
+              {
+                "masculine": "Direct eye contact",
+                "feminine": "Intermittent eye contact"
+              },
+              {
+                "masculine": "Strong/firm handshake",
+                "feminine": "Gentle handshake"
+              }
+            ]
+          },
+          {
+            "name": "Voice Characteristics",
+            "traits": [
+              {
+                "masculine": "Lower pitch",
+                "feminine": "Higher pitch"
+              },
+              {
+                "masculine": "Monotone speaking",
+                "feminine": "Varied intonation"
+              },
+              {
+                "masculine": "Louder volume",
+                "feminine": "Softer volume"
+              },
+              {
+                "masculine": "Direct speech pattern",
+                "feminine": "Lilting speech pattern"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Social Roles",
+        "subcategories": [
+          {
+            "name": "Family Responsibilities",
+            "traits": [
+              {
+                "masculine": "Primary provider",
+                "feminine": "Primary caregiver"
+              },
+              {
+                "masculine": "Disciplinarian",
+                "feminine": "Nurturing figure"
+              },
+              {
+                "masculine": "Home maintenance",
+                "feminine": "Domestic care"
+              },
+              {
+                "masculine": "Financial planning",
+                "feminine": "Emotional support"
+              }
+            ]
+          },
+          {
+            "name": "Professional Behaviors",
+            "traits": [
+              {
+                "masculine": "Career-focused",
+                "feminine": "Work-life balance"
+              },
+              {
+                "masculine": "Competitive advancement",
+                "feminine": "Collaborative growth"
+              },
+              {
+                "masculine": "Task-oriented",
+                "feminine": "People-oriented"
+              },
+              {
+                "masculine": "Direct management",
+                "feminine": "Supportive management"
+              }
+            ]
+          },
+          {
+            "name": "Leadership Styles",
+            "traits": [
+              {
+                "masculine": "Authoritative approach",
+                "feminine": "Democratic approach"
+              },
+              {
+                "masculine": "Results-focused",
+                "feminine": "Process-focused"
+              },
+              {
+                "masculine": "Independent decision-making",
+                "feminine": "Consensual decision-making"
+              },
+              {
+                "masculine": "Directive leadership",
+                "feminine": "Participative leadership"
+              }
+            ]
+          },
+          {
+            "name": "Relationship Dynamics",
+            "traits": [
+              {
+                "masculine": "Emotionally reserved",
+                "feminine": "Emotionally expressive"
+              },
+              {
+                "masculine": "Physical protector",
+                "feminine": "Emotional nurturer"
+              },
+              {
+                "masculine": "Activity-based bonding",
+                "feminine": "Conversation-based bonding"
+              },
+              {
+                "masculine": "Problem-solving focus",
+                "feminine": "Emotional support focus"
+              }
+            ]
+          },
+          {
+            "name": "Community Involvement",
+            "traits": [
+              {
+                "masculine": "Leadership roles",
+                "feminine": "Support roles"
+              },
+              {
+                "masculine": "Physical volunteering",
+                "feminine": "Social volunteering"
+              },
+              {
+                "masculine": "Sports coaching",
+                "feminine": "Educational mentoring"
+              },
+              {
+                "masculine": "Civic engagement",
+                "feminine": "Social welfare focus"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Communication Style",
+        "subcategories": [
+          {
+            "name": "Verbal Expression",
+            "traits": [
+              {
+                "masculine": "Direct communication",
+                "feminine": "Indirect communication"
+              },
+              {
+                "masculine": "Brief/concise",
+                "feminine": "Detailed/elaborate"
+              },
+              {
+                "masculine": "Solution-oriented",
+                "feminine": "Process-oriented"
+              },
+              {
+                "masculine": "Assertive tone",
+                "feminine": "Accommodating tone"
+              }
+            ]
+          },
+          {
+            "name": "Non-verbal Cues",
+            "traits": [
+              {
+                "masculine": "Limited gestures",
+                "feminine": "Animated gestures"
+              },
+              {
+                "masculine": "Reserved facial expressions",
+                "feminine": "Expressive facial displays"
+              },
+              {
+                "masculine": "Maintained personal space",
+                "feminine": "Close physical proximity"
+              },
+              {
+                "masculine": "Controlled movements",
+                "feminine": "Fluid movements"
+              }
+            ]
+          },
+          {
+            "name": "Conflict Resolution",
+            "traits": [
+              {
+                "masculine": "Direct confrontation",
+                "feminine": "Diplomatic mediation"
+              },
+              {
+                "masculine": "Logic-based solutions",
+                "feminine": "Emotion-based solutions"
+              },
+              {
+                "masculine": "Quick resolution",
+                "feminine": "Process-oriented resolution"
+              },
+              {
+                "masculine": "Competitive approach",
+                "feminine": "Collaborative approach"
+              }
+            ]
+          },
+          {
+            "name": "Conversation Topics",
+            "traits": [
+              {
+                "masculine": "Facts/information focus",
+                "feminine": "Feelings/relationships focus"
+              },
+              {
+                "masculine": "Business/politics",
+                "feminine": "Personal/social matters"
+              },
+              {
+                "masculine": "Problem-solving discussions",
+                "feminine": "Emotional sharing"
+              },
+              {
+                "masculine": "Achievement-oriented topics",
+                "feminine": "Relationship-oriented topics"
+              }
+            ]
+          },
+          {
+            "name": "Listening Patterns",
+            "traits": [
+              {
+                "masculine": "Solution-focused listening",
+                "feminine": "Empathetic listening"
+              },
+              {
+                "masculine": "Minimal verbal feedback",
+                "feminine": "Regular verbal validation"
+              },
+              {
+                "masculine": "Focus on facts",
+                "feminine": "Focus on emotions"
+              },
+              {
+                "masculine": "Action-oriented response",
+                "feminine": "Support-oriented response"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Emotional Responses",
+        "subcategories": [
+          {
+            "name": "Expression of Feelings",
+            "traits": [
+              {
+                "masculine": "Controlled expression",
+                "feminine": "Open expression"
+              },
+              {
+                "masculine": "Limited emotional range",
+                "feminine": "Wide emotional range"
+              },
+              {
+                "masculine": "Action-oriented response",
+                "feminine": "Verbal-emotional response"
+              },
+              {
+                "masculine": "Delayed processing",
+                "feminine": "Immediate processing"
+              }
+            ]
+          },
+          {
+            "name": "Coping Mechanisms",
+            "traits": [
+              {
+                "masculine": "Physical activity",
+                "feminine": "Emotional support"
+              },
+              {
+                "masculine": "Independent processing",
+                "feminine": "Group processing"
+              },
+              {
+                "masculine": "Problem-solving focus",
+                "feminine": "Emotional processing focus"
+              },
+              {
+                "masculine": "Distraction-based coping",
+                "feminine": "Expression-based coping"
+              }
+            ]
+          },
+          {
+            "name": "Empathy/Sensitivity",
+            "traits": [
+              {
+                "masculine": "Practical empathy",
+                "feminine": "Emotional empathy"
+              },
+              {
+                "masculine": "Solution-oriented support",
+                "feminine": "Emotional validation"
+              },
+              {
+                "masculine": "Reserved sympathy",
+                "feminine": "Expressed sympathy"
+              },
+              {
+                "masculine": "Action-based comfort",
+                "feminine": "Verbal-emotional comfort"
+              }
+            ]
+          },
+          {
+            "name": "Stress Management",
+            "traits": [
+              {
+                "masculine": "Physical outlets",
+                "feminine": "Social outlets"
+              },
+              {
+                "masculine": "Task-focused response",
+                "feminine": "Emotion-focused response"
+              },
+              {
+                "masculine": "Individual processing",
+                "feminine": "Collective processing"
+              },
+              {
+                "masculine": "Direct problem-solving",
+                "feminine": "Support-seeking"
+              }
+            ]
+          },
+          {
+            "name": "Decision-making Style",
+            "traits": [
+              {
+                "masculine": "Logic-based decisions",
+                "feminine": "Intuition-based decisions"
+              },
+              {
+                "masculine": "Quick decisive action",
+                "feminine": "Careful consideration"
+              },
+              {
+                "masculine": "Independent choices",
+                "feminine": "Collaborative choices"
+              },
+              {
+                "masculine": "Outcome-focused",
+                "feminine": "Process-focused"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Interests/Hobbies",
+        "subcategories": [
+          {
+            "name": "Recreational Activities",
+            "traits": [
+              {
+                "masculine": "Competitive sports",
+                "feminine": "Social activities"
+              },
+              {
+                "masculine": "Physical challenges",
+                "feminine": "Creative pursuits"
+              },
+              {
+                "masculine": "Technical hobbies",
+                "feminine": "Artistic hobbies"
+              },
+              {
+                "masculine": "Adventure activities",
+                "feminine": "Social gatherings"
+              }
+            ]
+          },
+          {
+            "name": "Entertainment Preferences",
+            "traits": [
+              {
+                "masculine": "Action/adventure genres",
+                "feminine": "Romance/drama genres"
+              },
+              {
+                "masculine": "Competition shows",
+                "feminine": "Reality/lifestyle shows"
+              },
+              {
+                "masculine": "Sports programming",
+                "feminine": "Personal interest shows"
+              },
+              {
+                "masculine": "Technical content",
+                "feminine": "Social content"
+              }
+            ]
+          },
+          {
+            "name": "Creative Pursuits",
+            "traits": [
+              {
+                "masculine": "Building/constructing",
+                "feminine": "Decorating/designing"
+              },
+              {
+                "masculine": "Technical creation",
+                "feminine": "Artistic expression"
+              },
+              {
+                "masculine": "Practical crafts",
+                "feminine": "Decorative crafts"
+              },
+              {
+                "masculine": "Digital creation",
+                "feminine": "Traditional arts"
+              }
+            ]
+          },
+          {
+            "name": "Sports/Physical Activities",
+            "traits": [
+              {
+                "masculine": "Contact sports",
+                "feminine": "Non-contact sports"
+              },
+              {
+                "masculine": "Strength training",
+                "feminine": "Flexibility training"
+              },
+              {
+                "masculine": "Competitive games",
+                "feminine": "Recreational activities"
+              },
+              {
+                "masculine": "High-intensity sports",
+                "feminine": "Low-impact activities"
+              }
+            ]
+          },
+          {
+            "name": "Leisure Time Preferences",
+            "traits": [
+              {
+                "masculine": "Active pursuits",
+                "feminine": "Relaxation activities"
+              },
+              {
+                "masculine": "Solo activities",
+                "feminine": "Group activities"
+              },
+              {
+                "masculine": "Goal-oriented leisure",
+                "feminine": "Process-oriented leisure"
+              },
+              {
+                "masculine": "Outdoor activities",
+                "feminine": "Indoor activities"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cognitive Patterns",
+        "subcategories": [
+          {
+            "name": "Problem-solving Approaches",
+            "traits": [
+              {
+                "masculine": "Linear systematic approach",
+                "feminine": "Holistic intuitive approach"
+              },
+              {
+                "masculine": "Single-focus solutions",
+                "feminine": "Multi-perspective solutions"
+              },
+              {
+                "masculine": "Immediate action",
+                "feminine": "Reflective consideration"
+              },
+              {
+                "masculine": "Technical analysis",
+                "feminine": "Contextual analysis"
+              }
+            ]
+          },
+          {
+            "name": "Learning Styles",
+            "traits": [
+              {
+                "masculine": "Hands-on experimentation",
+                "feminine": "Collaborative learning"
+              },
+              {
+                "masculine": "Independent study",
+                "feminine": "Group discussion"
+              },
+              {
+                "masculine": "Focus on facts/data",
+                "feminine": "Focus on concepts/context"
+              },
+              {
+                "masculine": "Competition-driven",
+                "feminine": "Cooperation-driven"
+              }
+            ]
+          },
+          {
+            "name": "Risk Assessment",
+            "traits": [
+              {
+                "masculine": "Higher risk tolerance",
+                "feminine": "Cautious consideration"
+              },
+              {
+                "masculine": "Quick risk evaluation",
+                "feminine": "Detailed risk analysis"
+              },
+              {
+                "masculine": "Challenge-seeking",
+                "feminine": "Security-seeking"
+              },
+              {
+                "masculine": "Confidence in uncertainty",
+                "feminine": "Preparation for uncertainty"
+              }
+            ]
+          },
+          {
+            "name": "Abstract vs. Concrete Thinking",
+            "traits": [
+              {
+                "masculine": "Focus on systems",
+                "feminine": "Focus on relationships"
+              },
+              {
+                "masculine": "Theoretical concepts",
+                "feminine": "Practical applications"
+              },
+              {
+                "masculine": "Global perspective",
+                "feminine": "Local perspective"
+              },
+              {
+                "masculine": "Pattern recognition",
+                "feminine": "Detail orientation"
+              }
+            ]
+          },
+          {
+            "name": "Decision-making Processes",
+            "traits": [
+              {
+                "masculine": "Rapid decision-making",
+                "feminine": "Thorough deliberation"
+              },
+              {
+                "masculine": "Data-driven choices",
+                "feminine": "Intuition-driven choices"
+              },
+              {
+                "masculine": "Individual judgment",
+                "feminine": "Collective input"
+              },
+              {
+                "masculine": "Outcome-focused",
+                "feminine": "Process-focused"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Interpersonal Dynamics",
+        "subcategories": [
+          {
+            "name": "Friendship Patterns",
+            "traits": [
+              {
+                "masculine": "Activity-based bonds",
+                "feminine": "Emotion-based bonds"
+              },
+              {
+                "masculine": "Fewer close friends",
+                "feminine": "Larger friend networks"
+              },
+              {
+                "masculine": "Shared interests focus",
+                "feminine": "Shared feelings focus"
+              },
+              {
+                "masculine": "Low maintenance contact",
+                "feminine": "Regular emotional check-ins"
+              }
+            ]
+          },
+          {
+            "name": "Group Behavior",
+            "traits": [
+              {
+                "masculine": "Hierarchical structure",
+                "feminine": "Egalitarian structure"
+              },
+              {
+                "masculine": "Task-oriented groups",
+                "feminine": "Social-oriented groups"
+              },
+              {
+                "masculine": "Competitive dynamics",
+                "feminine": "Cooperative dynamics"
+              },
+              {
+                "masculine": "Status-based roles",
+                "feminine": "Support-based roles"
+              }
+            ]
+          },
+          {
+            "name": "Support Systems",
+            "traits": [
+              {
+                "masculine": "Crisis-based support",
+                "feminine": "Ongoing emotional support"
+              },
+              {
+                "masculine": "Practical assistance",
+                "feminine": "Emotional availability"
+              },
+              {
+                "masculine": "Solution-focused help",
+                "feminine": "Presence-focused help"
+              },
+              {
+                "masculine": "Independent coping",
+                "feminine": "Collective coping"
+              }
+            ]
+          },
+          {
+            "name": "Networking Style",
+            "traits": [
+              {
+                "masculine": "Strategic connections",
+                "feminine": "Organic connections"
+              },
+              {
+                "masculine": "Professional focus",
+                "feminine": "Personal focus"
+              },
+              {
+                "masculine": "Achievement-based",
+                "feminine": "Relationship-based"
+              },
+              {
+                "masculine": "Direct approach",
+                "feminine": "Gradual approach"
+              }
+            ]
+          },
+          {
+            "name": "Mentoring Relationships",
+            "traits": [
+              {
+                "masculine": "Skills-focused guidance",
+                "feminine": "Holistic development"
+              },
+              {
+                "masculine": "Direct feedback",
+                "feminine": "Supportive feedback"
+              },
+              {
+                "masculine": "Career advancement",
+                "feminine": "Personal growth"
+              },
+              {
+                "masculine": "Authority-based",
+                "feminine": "Nurturing-based"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cultural Expression",
+        "subcategories": [
+          {
+            "name": "Traditional Customs",
+            "traits": [
+              {
+                "masculine": "Ritual leadership",
+                "feminine": "Ritual support"
+              },
+              {
+                "masculine": "Public ceremonies",
+                "feminine": "Domestic traditions"
+              },
+              {
+                "masculine": "Heritage preservation",
+                "feminine": "Cultural adaptation"
+              },
+              {
+                "masculine": "Formal customs",
+                "feminine": "Informal customs"
+              }
+            ]
+          },
+          {
+            "name": "Religious Roles",
+            "traits": [
+              {
+                "masculine": "Leadership positions",
+                "feminine": "Community support"
+              },
+              {
+                "masculine": "Doctrinal authority",
+                "feminine": "Spiritual nurturing"
+              },
+              {
+                "masculine": "Public worship",
+                "feminine": "Private devotion"
+              },
+              {
+                "masculine": "Traditional interpretation",
+                "feminine": "Adaptive interpretation"
+              }
+            ]
+          },
+          {
+            "name": "Artistic Expression",
+            "traits": [
+              {
+                "masculine": "Bold/dramatic style",
+                "feminine": "Subtle/nuanced style"
+              },
+              {
+                "masculine": "Abstract concepts",
+                "feminine": "Personal narratives"
+              },
+              {
+                "masculine": "Technical mastery",
+                "feminine": "Emotional depth"
+              },
+              {
+                "masculine": "Public performance",
+                "feminine": "Private creation"
+              }
+            ]
+          },
+          {
+            "name": "Cultural Expectations",
+            "traits": [
+              {
+                "masculine": "Public achievement",
+                "feminine": "Domestic harmony"
+              },
+              {
+                "masculine": "Social authority",
+                "feminine": "Social nurturing"
+              },
+              {
+                "masculine": "Career success",
+                "feminine": "Relationship success"
+              },
+              {
+                "masculine": "External validation",
+                "feminine": "Internal fulfillment"
+              }
+            ]
+          },
+          {
+            "name": "Generational Differences",
+            "traits": [
+              {
+                "masculine": "Traditional roles",
+                "feminine": "Progressive roles"
+              },
+              {
+                "masculine": "Status maintenance",
+                "feminine": "Role evolution"
+              },
+              {
+                "masculine": "Heritage preservation",
+                "feminine": "Cultural adaptation"
+              },
+              {
+                "masculine": "Established patterns",
+                "feminine": "Emerging patterns"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Personal Values",
+        "subcategories": [
+          {
+            "name": "Life Priorities",
+            "traits": [
+              {
+                "masculine": "Achievement focus",
+                "feminine": "Relationship focus"
+              },
+              {
+                "masculine": "Career advancement",
+                "feminine": "Life balance"
+              },
+              {
+                "masculine": "Legacy building",
+                "feminine": "Present moment"
+              },
+              {
+                "masculine": "External success",
+                "feminine": "Internal harmony"
+              }
+            ]
+          },
+          {
+            "name": "Success Metrics",
+            "traits": [
+              {
+                "masculine": "Achievement-based",
+                "feminine": "Fulfillment-based"
+              },
+              {
+                "masculine": "Competitive standing",
+                "feminine": "Personal growth"
+              },
+              {
+                "masculine": "External recognition",
+                "feminine": "Internal satisfaction"
+              },
+              {
+                "masculine": "Quantifiable results",
+                "feminine": "Qualitative impact"
+              }
+            ]
+          },
+          {
+            "name": "Ethical Frameworks",
+            "traits": [
+              {
+                "masculine": "Justice-oriented",
+                "feminine": "Care-oriented"
+              },
+              {
+                "masculine": "Rule-based morality",
+                "feminine": "Situational ethics"
+              },
+              {
+                "masculine": "Principle-focused",
+                "feminine": "Relationship-focused"
+              },
+              {
+                "masculine": "Universal standards",
+                "feminine": "Contextual standards"
+              }
+            ]
+          },
+          {
+            "name": "Personal Goals",
+            "traits": [
+              {
+                "masculine": "Achievement-oriented",
+                "feminine": "Growth-oriented"
+              },
+              {
+                "masculine": "Status attainment",
+                "feminine": "Personal fulfillment"
+              },
+              {
+                "masculine": "Competitive goals",
+                "feminine": "Collaborative goals"
+              },
+              {
+                "masculine": "External benchmarks",
+                "feminine": "Internal benchmarks"
+              }
+            ]
+          },
+          {
+            "name": "Identity Expression",
+            "traits": [
+              {
+                "masculine": "Role-based identity",
+                "feminine": "Relationship-based identity"
+              },
+              {
+                "masculine": "Achievement-defined",
+                "feminine": "Connection-defined"
+              },
+              {
+                "masculine": "Individual focus",
+                "feminine": "Community focus"
+              },
+              {
+                "masculine": "Status expression",
+                "feminine": "Authentic expression"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Power & Authority",
+        "subcategories": [
+          {
+            "name": "Leadership Approaches",
+            "traits": [
+              {
+                "masculine": "Command and control",
+                "feminine": "Collaborative guidance"
+              },
+              {
+                "masculine": "Position-based authority",
+                "feminine": "Relationship-based influence"
+              },
+              {
+                "masculine": "Direct delegation",
+                "feminine": "Empowerment focus"
+              },
+              {
+                "masculine": "Results orientation",
+                "feminine": "Development orientation"
+              }
+            ]
+          },
+          {
+            "name": "Status Symbols",
+            "traits": [
+              {
+                "masculine": "Material achievements",
+                "feminine": "Social connections"
+              },
+              {
+                "masculine": "Competitive ranking",
+                "feminine": "Community standing"
+              },
+              {
+                "masculine": "Power displays",
+                "feminine": "Influence displays"
+              },
+              {
+                "masculine": "External markers",
+                "feminine": "Relationship markers"
+              }
+            ]
+          },
+          {
+            "name": "Authority Expression",
+            "traits": [
+              {
+                "masculine": "Direct commands",
+                "feminine": "Suggestive guidance"
+              },
+              {
+                "masculine": "Formal authority",
+                "feminine": "Informal influence"
+              },
+              {
+                "masculine": "Visible power",
+                "feminine": "Subtle influence"
+              },
+              {
+                "masculine": "Hierarchical control",
+                "feminine": "Network influence"
+              }
+            ]
+          },
+          {
+            "name": "Influence Tactics",
+            "traits": [
+              {
+                "masculine": "Direct persuasion",
+                "feminine": "Relational influence"
+              },
+              {
+                "masculine": "Position leverage",
+                "feminine": "Connection leverage"
+              },
+              {
+                "masculine": "Assertive approach",
+                "feminine": "Diplomatic approach"
+              },
+              {
+                "masculine": "Achievement authority",
+                "feminine": "Relationship authority"
+              }
+            ]
+          },
+          {
+            "name": "Boundary Setting",
+            "traits": [
+              {
+                "masculine": "Rigid boundaries",
+                "feminine": "Flexible boundaries"
+              },
+              {
+                "masculine": "Direct confrontation",
+                "feminine": "Diplomatic negotiation"
+              },
+              {
+                "masculine": "Rule enforcement",
+                "feminine": "Understanding building"
+              },
+              {
+                "masculine": "Clear limits",
+                "feminine": "Adaptive limits"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Life Skills",
+        "subcategories": [
+          {
+            "name": "Domestic Abilities",
+            "traits": [
+              {
+                "masculine": "Home maintenance/repair",
+                "feminine": "Home decoration/organization"
+              },
+              {
+                "masculine": "Technical problem-solving",
+                "feminine": "Nurturing environment creation"
+              },
+              {
+                "masculine": "Project-based tasks",
+                "feminine": "Routine maintenance"
+              },
+              {
+                "masculine": "Functional solutions",
+                "feminine": "Aesthetic solutions"
+              }
+            ]
+          },
+          {
+            "name": "Technical Aptitudes",
+            "traits": [
+              {
+                "masculine": "Mechanical orientation",
+                "feminine": "Digital communication"
+              },
+              {
+                "masculine": "Systems understanding",
+                "feminine": "User experience focus"
+              },
+              {
+                "masculine": "Technical troubleshooting",
+                "feminine": "Intuitive problem-solving"
+              },
+              {
+                "masculine": "Tool mastery",
+                "feminine": "Process adaptation"
+              }
+            ]
+          },
+          {
+            "name": "Financial Management",
+            "traits": [
+              {
+                "masculine": "Risk-taking investment",
+                "feminine": "Conservative saving"
+              },
+              {
+                "masculine": "Long-term planning",
+                "feminine": "Daily budgeting"
+              },
+              {
+                "masculine": "Wealth accumulation",
+                "feminine": "Security building"
+              },
+              {
+                "masculine": "Strategic spending",
+                "feminine": "Value-based purchasing"
+              }
+            ]
+          },
+          {
+            "name": "Time Management",
+            "traits": [
+              {
+                "masculine": "Task-focused scheduling",
+                "feminine": "Flexible scheduling"
+              },
+              {
+                "masculine": "Deadline-driven",
+                "feminine": "Process-oriented"
+              },
+              {
+                "masculine": "Efficiency priority",
+                "feminine": "Balance priority"
+              },
+              {
+                "masculine": "Structured routines",
+                "feminine": "Adaptive routines"
+              }
+            ]
+          },
+          {
+            "name": "Resource Organization",
+            "traits": [
+              {
+                "masculine": "Functional systems",
+                "feminine": "Aesthetic systems"
+              },
+              {
+                "masculine": "Minimal organization",
+                "feminine": "Detailed organization"
+              },
+              {
+                "masculine": "Efficiency-based",
+                "feminine": "Accessibility-based"
+              },
+              {
+                "masculine": "Purpose-driven",
+                "feminine": "Beauty-driven"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Career Preferences",
+        "subcategories": [
+          {
+            "name": "Industry Choices",
+            "traits": [
+              {
+                "masculine": "Technical sectors",
+                "feminine": "Service sectors"
+              },
+              {
+                "masculine": "Production-focused",
+                "feminine": "People-focused"
+              },
+              {
+                "masculine": "High-risk industries",
+                "feminine": "Stable industries"
+              },
+              {
+                "masculine": "Competition-driven fields",
+                "feminine": "Collaboration-driven fields"
+              }
+            ]
+          },
+          {
+            "name": "Work-Life Balance",
+            "traits": [
+              {
+                "masculine": "Career prioritization",
+                "feminine": "Life prioritization"
+              },
+              {
+                "masculine": "Extended work hours",
+                "feminine": "Flexible scheduling"
+              },
+              {
+                "masculine": "Achievement focus",
+                "feminine": "Balance focus"
+              },
+              {
+                "masculine": "Work centrality",
+                "feminine": "Life integration"
+              }
+            ]
+          },
+          {
+            "name": "Professional Development",
+            "traits": [
+              {
+                "masculine": "Skill acquisition",
+                "feminine": "Relationship building"
+              },
+              {
+                "masculine": "Vertical advancement",
+                "feminine": "Horizontal growth"
+              },
+              {
+                "masculine": "Technical expertise",
+                "feminine": "Soft skills development"
+              },
+              {
+                "masculine": "Competition-based growth",
+                "feminine": "Collaboration-based growth"
+              }
+            ]
+          },
+          {
+            "name": "Workplace Behavior",
+            "traits": [
+              {
+                "masculine": "Task-oriented focus",
+                "feminine": "People-oriented focus"
+              },
+              {
+                "masculine": "Direct communication",
+                "feminine": "Diplomatic communication"
+              },
+              {
+                "masculine": "Independent work",
+                "feminine": "Team collaboration"
+              },
+              {
+                "masculine": "Status-seeking",
+                "feminine": "Harmony-seeking"
+              }
+            ]
+          },
+          {
+            "name": "Achievement Style",
+            "traits": [
+              {
+                "masculine": "Results-driven",
+                "feminine": "Process-driven"
+              },
+              {
+                "masculine": "Individual recognition",
+                "feminine": "Team recognition"
+              },
+              {
+                "masculine": "Competitive success",
+                "feminine": "Collaborative success"
+              },
+              {
+                "masculine": "External validation",
+                "feminine": "Internal satisfaction"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Physical Movement & Space",
+        "subcategories": [
+          {
+            "name": "Body Mechanics",
+            "traits": [
+              {
+                "masculine": "Strong/powerful movements",
+                "feminine": "Graceful/fluid movements"
+              },
+              {
+                "masculine": "Direct path movement",
+                "feminine": "Curved path movement"
+              },
+              {
+                "masculine": "Space-consuming",
+                "feminine": "Space-conscious"
+              },
+              {
+                "masculine": "Rigid posture",
+                "feminine": "Flexible posture"
+              }
+            ]
+          },
+          {
+            "name": "Personal Space Preferences",
+            "traits": [
+              {
+                "masculine": "Larger personal bubble",
+                "feminine": "Smaller personal bubble"
+              },
+              {
+                "masculine": "Territory marking",
+                "feminine": "Space sharing"
+              },
+              {
+                "masculine": "Physical boundaries",
+                "feminine": "Flexible boundaries"
+              },
+              {
+                "masculine": "Distance maintenance",
+                "feminine": "Proximity comfort"
+              }
+            ]
+          },
+          {
+            "name": "Physical Coordination Styles",
+            "traits": [
+              {
+                "masculine": "Strength-based",
+                "feminine": "Flexibility-based"
+              },
+              {
+                "masculine": "Power movements",
+                "feminine": "Coordinated movements"
+              },
+              {
+                "masculine": "Direct actions",
+                "feminine": "Flowing actions"
+              },
+              {
+                "masculine": "Speed emphasis",
+                "feminine": "Control emphasis"
+              }
+            ]
+          },
+          {
+            "name": "Movement Patterns",
+            "traits": [
+              {
+                "masculine": "Linear movement",
+                "feminine": "Circular movement"
+              },
+              {
+                "masculine": "Purpose-driven motion",
+                "feminine": "Expressive motion"
+              },
+              {
+                "masculine": "Direct paths",
+                "feminine": "Meandering paths"
+              },
+              {
+                "masculine": "Efficiency-focused",
+                "feminine": "Grace-focused"
+              }
+            ]
+          },
+          {
+            "name": "Environmental Navigation",
+            "traits": [
+              {
+                "masculine": "Goal-oriented navigation",
+                "feminine": "Exploratory navigation"
+              },
+              {
+                "masculine": "Distance focus",
+                "feminine": "Landmark focus"
+              },
+              {
+                "masculine": "Direct routes",
+                "feminine": "Scenic routes"
+              },
+              {
+                "masculine": "Spatial reasoning",
+                "feminine": "Contextual navigation"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Consumer Behavior",
+        "subcategories": [
+          {
+            "name": "Shopping Patterns",
+            "traits": [
+              {
+                "masculine": "Need-based shopping",
+                "feminine": "Experience-based shopping"
+              },
+              {
+                "masculine": "Quick decisions",
+                "feminine": "Comparative shopping"
+              },
+              {
+                "masculine": "Direct purchasing",
+                "feminine": "Browsing behavior"
+              },
+              {
+                "masculine": "Function priority",
+                "feminine": "Style priority"
+              }
+            ]
+          },
+          {
+            "name": "Brand Preferences",
+            "traits": [
+              {
+                "masculine": "Performance focus",
+                "feminine": "Image focus"
+              },
+              {
+                "masculine": "Technical brands",
+                "feminine": "Lifestyle brands"
+              },
+              {
+                "masculine": "Loyalty to function",
+                "feminine": "Loyalty to experience"
+              },
+              {
+                "masculine": "Status-driven choices",
+                "feminine": "Identity-driven choices"
+              }
+            ]
+          },
+          {
+            "name": "Purchase Decision-making",
+            "traits": [
+              {
+                "masculine": "Feature-based decisions",
+                "feminine": "Emotional-based decisions"
+              },
+              {
+                "masculine": "Quick evaluation",
+                "feminine": "Detailed research"
+              },
+              {
+                "masculine": "Price-performance ratio",
+                "feminine": "Value-experience ratio"
+              },
+              {
+                "masculine": "Independent decisions",
+                "feminine": "Social input"
+              }
+            ]
+          },
+          {
+            "name": "Product Usage",
+            "traits": [
+              {
+                "masculine": "Functional usage",
+                "feminine": "Multi-purpose usage"
+              },
+              {
+                "masculine": "Basic maintenance",
+                "feminine": "Detailed care"
+              },
+              {
+                "masculine": "Efficiency focus",
+                "feminine": "Experience focus"
+              },
+              {
+                "masculine": "Practical application",
+                "feminine": "Creative application"
+              }
+            ]
+          },
+          {
+            "name": "Service Preferences",
+            "traits": [
+              {
+                "masculine": "Efficiency priority",
+                "feminine": "Experience priority"
+              },
+              {
+                "masculine": "Minimal interaction",
+                "feminine": "Personal interaction"
+              },
+              {
+                "masculine": "Direct service",
+                "feminine": "Customized service"
+              },
+              {
+                "masculine": "Solution focus",
+                "feminine": "Relationship focus"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Health & Wellness",
+        "subcategories": [
+          {
+            "name": "Self-care Practices",
+            "traits": [
+              {
+                "masculine": "Basic maintenance",
+                "feminine": "Comprehensive care"
+              },
+              {
+                "masculine": "Problem-focused care",
+                "feminine": "Preventive care"
+              },
+              {
+                "masculine": "Physical focus",
+                "feminine": "Holistic focus"
+              },
+              {
+                "masculine": "Minimal routine",
+                "feminine": "Elaborate routine"
+              }
+            ]
+          },
+          {
+            "name": "Medical Attention Patterns",
+            "traits": [
+              {
+                "masculine": "Crisis-driven care",
+                "feminine": "Preventive care"
+              },
+              {
+                "masculine": "Delayed seeking help",
+                "feminine": "Early intervention"
+              },
+              {
+                "masculine": "Specific complaint focus",
+                "feminine": "Overall health focus"
+              },
+              {
+                "masculine": "Minimal doctor visits",
+                "feminine": "Regular check-ups"
+              }
+            ]
+          },
+          {
+            "name": "Fitness Goals",
+            "traits": [
+              {
+                "masculine": "Strength building",
+                "feminine": "Toning/flexibility"
+              },
+              {
+                "masculine": "Performance goals",
+                "feminine": "Wellness goals"
+              },
+              {
+                "masculine": "Competitive sports",
+                "feminine": "Group fitness"
+              },
+              {
+                "masculine": "Muscle focus",
+                "feminine": "Overall fitness"
+              }
+            ]
+          },
+          {
+            "name": "Dietary Habits",
+            "traits": [
+              {
+                "masculine": "Fuel-based eating",
+                "feminine": "Nutrition-based eating"
+              },
+              {
+                "masculine": "Larger portions",
+                "feminine": "Controlled portions"
+              },
+              {
+                "masculine": "Protein focus",
+                "feminine": "Balance focus"
+              },
+              {
+                "masculine": "Convenience priority",
+                "feminine": "Health priority"
+              }
+            ]
+          },
+          {
+            "name": "Wellness Priorities",
+            "traits": [
+              {
+                "masculine": "Physical fitness",
+                "feminine": "Overall wellbeing"
+              },
+              {
+                "masculine": "Performance metrics",
+                "feminine": "Feeling metrics"
+              },
+              {
+                "masculine": "External goals",
+                "feminine": "Internal balance"
+              },
+              {
+                "masculine": "Visible results",
+                "feminine": "Holistic benefits"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Digital Presence",
+        "subcategories": [
+          {
+            "name": "Social Media Behavior",
+            "traits": [
+              {
+                "masculine": "Information sharing",
+                "feminine": "Personal sharing"
+              },
+              {
+                "masculine": "Achievement posts",
+                "feminine": "Relationship posts"
+              },
+              {
+                "masculine": "Limited interaction",
+                "feminine": "Frequent engagement"
+              },
+              {
+                "masculine": "Professional networking",
+                "feminine": "Social networking"
+              }
+            ]
+          },
+          {
+            "name": "Online Communication",
+            "traits": [
+              {
+                "masculine": "Brief messages",
+                "feminine": "Detailed messages"
+              },
+              {
+                "masculine": "Direct tone",
+                "feminine": "Expressive tone"
+              },
+              {
+                "masculine": "Task-focused chat",
+                "feminine": "Social-focused chat"
+              },
+              {
+                "masculine": "Limited emoticons",
+                "feminine": "Frequent emoticons"
+              }
+            ]
+          },
+          {
+            "name": "Digital Content Creation",
+            "traits": [
+              {
+                "masculine": "Technical content",
+                "feminine": "Creative content"
+              },
+              {
+                "masculine": "Information focus",
+                "feminine": "Story focus"
+              },
+              {
+                "masculine": "Objective perspective",
+                "feminine": "Personal perspective"
+              },
+              {
+                "masculine": "Product-oriented",
+                "feminine": "Process-oriented"
+              }
+            ]
+          },
+          {
+            "name": "Gaming Preferences",
+            "traits": [
+              {
+                "masculine": "Competitive gaming",
+                "feminine": "Casual gaming"
+              },
+              {
+                "masculine": "Strategy/action games",
+                "feminine": "Social/simulation games"
+              },
+              {
+                "masculine": "Achievement focus",
+                "feminine": "Experience focus"
+              },
+              {
+                "masculine": "Solo gaming",
+                "feminine": "Group gaming"
+              }
+            ]
+          },
+          {
+            "name": "Technology Usage",
+            "traits": [
+              {
+                "masculine": "Technical mastery",
+                "feminine": "Practical application"
+              },
+              {
+                "masculine": "Early adoption",
+                "feminine": "Practical adoption"
+              },
+              {
+                "masculine": "System focus",
+                "feminine": "User experience focus"
+              },
+              {
+                "masculine": "Tool-oriented",
+                "feminine": "Communication-oriented"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Risk & Safety",
+        "subcategories": [
+          {
+            "name": "Risk-taking Behavior",
+            "traits": [
+              {
+                "masculine": "High risk tolerance",
+                "feminine": "Risk aversion"
+              },
+              {
+                "masculine": "Thrill-seeking",
+                "feminine": "Security-seeking"
+              },
+              {
+                "masculine": "Challenge emphasis",
+                "feminine": "Safety emphasis"
+              },
+              {
+                "masculine": "Spontaneous decisions",
+                "feminine": "Calculated decisions"
+              }
+            ]
+          },
+          {
+            "name": "Safety Precautions",
+            "traits": [
+              {
+                "masculine": "Basic precautions",
+                "feminine": "Extensive precautions"
+              },
+              {
+                "masculine": "Reactive safety",
+                "feminine": "Proactive safety"
+              },
+              {
+                "masculine": "Risk acceptance",
+                "feminine": "Risk mitigation"
+              },
+              {
+                "masculine": "Minimal preparation",
+                "feminine": "Thorough preparation"
+              }
+            ]
+          },
+          {
+            "name": "Adventure Comfort",
+            "traits": [
+              {
+                "masculine": "Seeks challenges",
+                "feminine": "Seeks comfort"
+              },
+              {
+                "masculine": "Physical risks",
+                "feminine": "Calculated risks"
+              },
+              {
+                "masculine": "Spontaneous adventure",
+                "feminine": "Planned adventure"
+              },
+              {
+                "masculine": "Extreme activities",
+                "feminine": "Moderate activities"
+              }
+            ]
+          },
+          {
+            "name": "Emergency Response",
+            "traits": [
+              {
+                "masculine": "Action-oriented",
+                "feminine": "Support-oriented"
+              },
+              {
+                "masculine": "Direct intervention",
+                "feminine": "Collaborative response"
+              },
+              {
+                "masculine": "Physical response",
+                "feminine": "Emotional response"
+              },
+              {
+                "masculine": "Independent handling",
+                "feminine": "Team coordination"
+              }
+            ]
+          },
+          {
+            "name": "Security Concerns",
+            "traits": [
+              {
+                "masculine": "Physical security",
+                "feminine": "Emotional security"
+              },
+              {
+                "masculine": "Self-reliant protection",
+                "feminine": "Community protection"
+              },
+              {
+                "masculine": "Direct confrontation",
+                "feminine": "Avoidance strategy"
+              },
+              {
+                "masculine": "Active defense",
+                "feminine": "Preventive measures"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Environmental Interaction",
+        "subcategories": [
+          {
+            "name": "Nature Connection",
+            "traits": [
+              {
+                "masculine": "Mastery approach",
+                "feminine": "Harmony approach"
+              },
+              {
+                "masculine": "Resource utilization",
+                "feminine": "Resource preservation"
+              },
+              {
+                "masculine": "Adventure focus",
+                "feminine": "Connection focus"
+              },
+              {
+                "masculine": "Physical interaction",
+                "feminine": "Spiritual interaction"
+              }
+            ]
+          },
+          {
+            "name": "Environmental Awareness",
+            "traits": [
+              {
+                "masculine": "Practical concern",
+                "feminine": "Emotional concern"
+              },
+              {
+                "masculine": "Solution-focused",
+                "feminine": "Prevention-focused"
+              },
+              {
+                "masculine": "Technical approach",
+                "feminine": "Holistic approach"
+              },
+              {
+                "masculine": "Resource management",
+                "feminine": "Environmental stewardship"
+              }
+            ]
+          },
+          {
+            "name": "Outdoor Activities",
+            "traits": [
+              {
+                "masculine": "Competitive sports",
+                "feminine": "Recreational activities"
+              },
+              {
+                "masculine": "Physical challenge",
+                "feminine": "Social experience"
+              },
+              {
+                "masculine": "Achievement goals",
+                "feminine": "Experience goals"
+              },
+              {
+                "masculine": "Adventure seeking",
+                "feminine": "Nature appreciation"
+              }
+            ]
+          },
+          {
+            "name": "Space Organization",
+            "traits": [
+              {
+                "masculine": "Functional layout",
+                "feminine": "Aesthetic layout"
+              },
+              {
+                "masculine": "Minimal design",
+                "feminine": "Decorative design"
+              },
+              {
+                "masculine": "Efficiency focus",
+                "feminine": "Comfort focus"
+              },
+              {
+                "masculine": "Practical storage",
+                "feminine": "Visual harmony"
+              }
+            ]
+          },
+          {
+            "name": "Habitat Preferences",
+            "traits": [
+              {
+                "masculine": "Functional space",
+                "feminine": "Nurturing space"
+              },
+              {
+                "masculine": "Minimal decoration",
+                "feminine": "Personal touches"
+              },
+              {
+                "masculine": "Technology integration",
+                "feminine": "Comfort integration"
+              },
+              {
+                "masculine": "Practical amenities",
+                "feminine": "Aesthetic amenities"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Learning & Education",
+        "subcategories": [
+          {
+            "name": "Educational Preferences",
+            "traits": [
+              {
+                "masculine": "Technical subjects",
+                "feminine": "Humanities subjects"
+              },
+              {
+                "masculine": "Individual learning",
+                "feminine": "Group learning"
+              },
+              {
+                "masculine": "Practical application",
+                "feminine": "Theoretical understanding"
+              },
+              {
+                "masculine": "Achievement focus",
+                "feminine": "Growth focus"
+              }
+            ]
+          },
+          {
+            "name": "Study Habits",
+            "traits": [
+              {
+                "masculine": "Goal-oriented study",
+                "feminine": "Process-oriented study"
+              },
+              {
+                "masculine": "Independent work",
+                "feminine": "Collaborative work"
+              },
+              {
+                "masculine": "Focused sessions",
+                "feminine": "Flexible sessions"
+              },
+              {
+                "masculine": "Direct approach",
+                "feminine": "Explorative approach"
+              }
+            ]
+          },
+          {
+            "name": "Knowledge Sharing",
+            "traits": [
+              {
+                "masculine": "Information transfer",
+                "feminine": "Experience sharing"
+              },
+              {
+                "masculine": "Direct instruction",
+                "feminine": "Collaborative learning"
+              },
+              {
+                "masculine": "Expertise display",
+                "feminine": "Mutual discovery"
+              },
+              {
+                "masculine": "Fact-focused",
+                "feminine": "Context-focused"
+              }
+            ]
+          },
+          {
+            "name": "Skill Development",
+            "traits": [
+              {
+                "masculine": "Technical mastery",
+                "feminine": "Holistic growth"
+              },
+              {
+                "masculine": "Specific expertise",
+                "feminine": "Broad competence"
+              },
+              {
+                "masculine": "Competitive improvement",
+                "feminine": "Personal improvement"
+              },
+              {
+                "masculine": "Achievement-driven",
+                "feminine": "Growth-driven"
+              }
+            ]
+          },
+          {
+            "name": "Academic Interests",
+            "traits": [
+              {
+                "masculine": "STEM focus",
+                "feminine": "Arts/humanities focus"
+              },
+              {
+                "masculine": "Analytical subjects",
+                "feminine": "Creative subjects"
+              },
+              {
+                "masculine": "Practical fields",
+                "feminine": "Social fields"
+              },
+              {
+                "masculine": "Technical research",
+                "feminine": "Social research"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Time Perception",
+        "subcategories": [
+          {
+            "name": "Future Planning",
+            "traits": [
+              {
+                "masculine": "Goal-oriented planning",
+                "feminine": "Process-oriented planning"
+              },
+              {
+                "masculine": "Long-term objectives",
+                "feminine": "Flexible adaptation"
+              },
+              {
+                "masculine": "Strategic planning",
+                "feminine": "Intuitive planning"
+              },
+              {
+                "masculine": "Achievement timeline",
+                "feminine": "Life balance timeline"
+              }
+            ]
+          },
+          {
+            "name": "Schedule Management",
+            "traits": [
+              {
+                "masculine": "Strict scheduling",
+                "feminine": "Flexible scheduling"
+              },
+              {
+                "masculine": "Task prioritization",
+                "feminine": "Relationship prioritization"
+              },
+              {
+                "masculine": "Efficiency focus",
+                "feminine": "Balance focus"
+              },
+              {
+                "masculine": "Time optimization",
+                "feminine": "Time enjoyment"
+              }
+            ]
+          },
+          {
+            "name": "Deadline Approach",
+            "traits": [
+              {
+                "masculine": "Early completion",
+                "feminine": "Just-in-time completion"
+              },
+              {
+                "masculine": "Structured approach",
+                "feminine": "Flexible approach"
+              },
+              {
+                "masculine": "Task-focused",
+                "feminine": "Process-focused"
+              },
+              {
+                "masculine": "Time management",
+                "feminine": "Energy management"
+              }
+            ]
+          },
+          {
+            "name": "Life Milestones",
+            "traits": [
+              {
+                "masculine": "Achievement-based",
+                "feminine": "Experience-based"
+              },
+              {
+                "masculine": "Career milestones",
+                "feminine": "Relationship milestones"
+              },
+              {
+                "masculine": "Status markers",
+                "feminine": "Personal growth markers"
+              },
+              {
+                "masculine": "External validation",
+                "feminine": "Internal fulfillment"
+              }
+            ]
+          },
+          {
+            "name": "Time Value",
+            "traits": [
+              {
+                "masculine": "Productivity focus",
+                "feminine": "Experience focus"
+              },
+              {
+                "masculine": "Future orientation",
+                "feminine": "Present orientation"
+              },
+              {
+                "masculine": "Achievement time",
+                "feminine": "Quality time"
+              },
+              {
+                "masculine": "Task completion",
+                "feminine": "Process enjoyment"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
