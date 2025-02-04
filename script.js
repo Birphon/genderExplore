@@ -2,6 +2,35 @@ let traitsData;
 let selections = new Map();
 let filteredData = [];
 
+// Debug functions - defined at the top level
+function male100() {
+    const allBoxes = document.querySelectorAll('.selection-boxes');
+    allBoxes.forEach((box, index) => {
+        selectBox(index, 'blue');
+    });
+}
+
+function fem100() {
+    const allBoxes = document.querySelectorAll('.selection-boxes');
+    allBoxes.forEach((box, index) => {
+        selectBox(index, 'pink');
+    });
+}
+
+function random() {
+    const options = ['blue', 'pink', 'grey', 'white'];
+    const allBoxes = document.querySelectorAll('.selection-boxes');
+    allBoxes.forEach((box, index) => {
+        const randomOption = options[Math.floor(Math.random() * options.length)];
+        selectBox(index, randomOption);
+    });
+}
+
+// Explicitly attach to window
+window.male100 = male100;
+window.fem100 = fem100;
+window.random = random;
+
 // Fetch and load the JSON data
 async function loadData() {
     try {
