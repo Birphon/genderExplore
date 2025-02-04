@@ -251,6 +251,43 @@ table {
     border-radius: 0.25rem;
 }
 
+/* Footer Styles */
+.footer {
+    margin-top: 3rem;
+    padding: 2rem 0;
+    border-top: 1px solid var(--darker-bg);
+}
+
+.psa-box {
+    background-color: var(--darker-bg);
+    padding: 2rem;
+    border-radius: 0.5rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.psa-box h3 {
+    color: var(--pink);
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+}
+
+.psa-box p {
+    margin-bottom: 1rem;
+    line-height: 1.6;
+    opacity: 0.9;
+}
+
+.psa-box ul {
+    margin: 1rem 0;
+    padding-left: 1.5rem;
+}
+
+.psa-box li {
+    margin: 0.5rem 0;
+    opacity: 0.9;
+}
+
 /* Media Queries */
 @media (max-width: 768px) {
     .container {
